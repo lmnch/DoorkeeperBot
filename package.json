@@ -1,0 +1,11 @@
+{
+  "name": "doorkeeper-bot",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "/index.html",
+  "dependencies": {
+    "discord.js": "13.1.0",
+    "sqlite3": "5.0.2"
+  }
+}
